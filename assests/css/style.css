@@ -1,0 +1,27 @@
+body{
+    background-color:#00cdce;
+    text-align: center;
+    padding-top: 100px;
+
+}
+
+.color{
+    color: white;
+}
+
+table{
+    margin-left: 350px;
+    
+}
+
+th{
+    text-align: center;
+    background-color:rgb(255, 255, 255);
+    color:#00cdce;
+    width: 175px;
+    height: 25vh;     
+}
+
+i{
+    font-size: 25;
+}
